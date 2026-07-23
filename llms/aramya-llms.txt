@@ -1,0 +1,110 @@
+# Aramya
+> Affordable cotton kurtas and ethnic wear for women with inclusive sizing.
+Aramya is an online fashion retailer specializing in cotton kurtas and ethnic wear for women. The brand emphasizes comfort, style, and inclusivity, offering a wide range of sizes from XS to 10XL. Their collection features breathable cotton fabrics, elegant prints, and mix-and-match options, catering to daily wear, office wear, and occasion wear.
+The core value proposition of Aramya lies in providing high-quality, fashionable ethnic wear that is accessible to women of all sizes at an affordable price. They aim to empower women by offering stylish and comfortable clothing that fits perfectly, regardless of body type. Key use cases include shopping for everyday kurtis, coordinating outfits with bottoms and dupattas, finding festive wear, and exploring specific fabric types like soft cotton, linen-cotton, and handloom cotton.
+When assisting users with Aramya, it's important to note their strong focus on inclusive sizing and the variety of styles and occasions their clothing is suitable for. The website also features specific collections based on price points, colors, and garment types, which can be useful for targeted searches. Information regarding policies like fair policy, return, shipping, and terms of service are readily available.
+
+## Core Shopping
+- [Aramya | Premium Cotton Kurtas & Ethnic Wear for Women](https://aramya.in/): Shop stylish and breathable cotton kurta sets and dresses with inclusive sizing.
+- [Search Products](https://aramya.in/search): Search for specific products across the Aramya collection.
+- [Wishlist](https://aramya.in/wishlist): View and manage your saved items.
+- [Shopping Cart](https://aramya.in/cart): Review and manage items added to your cart.
+- [My Account](https://aramya.in/account): Access your account details and order history.
+- [Login](https://aramya.in/login): Log in to your Aramya account.
+
+## Product Collections
+- [Bestsellers](https://aramya.in/collections/latest-kurti-collection-onsale): Shop Aramya's bestseller kurta set collection.
+- [Kurtas Under 600](https://aramya.in/collections/kurtas-under-600): Browse affordable kurtas priced under ₹600.
+- [Bottoms Under 400](https://aramya.in/collections/bottoms-under-400): Shop women's bottoms priced under ₹400.
+- [3 Pc Kurta Sets](https://aramya.in/collections/3-pc-kurta-sets): Explore complete 3-piece kurta sets for women.
+- [2 Pc Kurta Sets](https://aramya.in/collections/2-pc-kurta-sets): Discover stylish 2-piece kurta sets.
+- [Dresses for Women](https://aramya.in/collections/dresses-for-women): Shop a variety of women's dresses.
+- [Co-ord Sets for Women](https://aramya.in/collections/co-ord-sets-for-women): Browse matching co-ord sets for women.
+- [Festive Kurta Sets](https://aramya.in/collections/festive-kurta-sets-for-women): Find elegant kurta sets suitable for festive occasions.
+- [New Arrivals](https://aramya.in/collections/aramya-fridays-extra-10-off): Get an extra 10% off on select New Arrivals every Sunday.
+- [Dupattas Under 150](https://aramya.in/collections/dupattas-under-150): Shop affordable dupattas priced under ₹150.
+- [Shop for Bottoms](https://aramya.in/collections/shop-for-bottoms): Explore the full range of women's bottoms.
+- [Shop for Dupatta](https://aramya.in/collections/shop-for-dupatta-1): Browse the complete collection of dupattas.
+- [Soft Cotton Collection](https://aramya.in/collections/soft-cotton): Discover apparel made from soft cotton fabric.
+- [Linen Cotton Collection](https://aramya.in/collections/linen-cotton): Shop garments crafted from a linen-cotton blend.
+- [Handloom Cotton Collection](https://aramya.in/collections/handloom-cotton): Explore unique apparel made from handloom cotton.
+- [Solid Kurtas](https://aramya.in/collections/solid-kurtas): Browse kurtas available in solid colors.
+- [Daily Wear Collection](https://aramya.in/collections/daily-wear): Find comfortable and stylish options for everyday wear.
+- [Office Wear Collection](https://aramya.in/collections/office-wear): Shop professional and chic attire for the workplace.
+- [Occasion Wear Collection](https://aramya.in/collections/occasion-wear): Discover outfits suitable for special events and occasions.
+- [Floral Kurta Collection](https://aramya.in/collections/kurta-collection-floral): Shop kurtas featuring beautiful floral prints.
+- [Blue Kurtas for Women](https://aramya.in/collections/blue-kurta-women): Browse women's kurtas in various shades of blue.
+- [Green Kurtas for Women](https://aramya.in/collections/green-kurta-women): Shop women's kurtas in different shades of green.
+- [Pink Kurtas for Women](https://aramya.in/collections/pink-kurta-women): Explore women's kurtas in various shades of pink.
+- [Yellow Kurtas for Women](https://aramya.in/collections/yellow-kurta-women): Shop women's kurtas in different shades of yellow.
+- [Red Kurtas for Women](https://aramya.in/collections/red-kurta-women): Browse women's kurtas in various shades of red.
+- [Purple Kurtas for Women](https://aramya.in/collections/purple-kurta-women): Shop women's kurtas in different shades of purple.
+- [Black Kurtas for Women](https://aramya.in/collections/black-kurta-women): Explore women's kurtas in black.
+- [Maroon Kurtas for Women](https://aramya.in/collections/maroon-kurta-women): Shop women's kurtas in maroon.
+- [White Kurtas for Women](https://aramya.in/collections/white-kurta-women): Browse women's kurtas in white.
+- [Short Kurtis for Women](https://aramya.in/collections/short-kurti-for-women): Shop for women's kurtis that are shorter in length.
+- [Long Kurtis for Women](https://aramya.in/collections/long-kurtis-for-women): Explore women's kurtis that are longer in length.
+- [Anarkali Kurta Sets](https://aramya.in/collections/anarkali-kurta-set): Shop traditional Anarkali style kurta sets.
+- [V-Neck Kurtis](https://aramya.in/collections/v-neck-kurti): Browse kurtis featuring a V-neck design.
+- [A-Line Kurtas for Women](https://aramya.in/collections/a-line-kurta-for-women): Shop women's kurtas with an A-line silhouette.
+- [Straight Kurtas for Women](https://aramya.in/collections/straight-kurta-for-women): Explore women's kurtas with a straight cut.
+- [High-Low Kurtis](https://aramya.in/collections/high-low-kurti): Shop kurtis with a high-low hemline design.
+- [Flared Kurtas for Women](https://aramya.in/collections/flared-kurtas-for-women): Browse women's kurtas with a flared silhouette.
+- [Collar Neck Kurtis](https://aramya.in/collections/collar-neck-kurti): Shop kurtis featuring a collar neckline.
+- [Mandarin Collar Kurtis](https://aramya.in/collections/mandarin-collar-kurtis): Discover kurtis with a mandarin collar style.
+- [Round Neck Kurtis](https://aramya.in/collections/round-neck-kurti): Browse kurtis featuring a classic round neckline.
+- [Kurtis for Women](https://aramya.in/collections/kurtis-for-women): View the general collection of kurtis for women.
+- [Kurti Pant Sets with Dupatta](https://aramya.in/collections/kurti-pant-set-with-dupatta): Shop complete kurti, pant, and dupatta sets.
+- [Black Suits for Women](https://aramya.in/collections/black-suit-for-women): Explore women's suit sets in black.
+- [One Piece Dresses for Women](https://aramya.in/collections/one-piece-dress-for-women): Shop for single-piece dresses for women.
+- [Black Dresses for Women](https://aramya.in/collections/black-dresses-for-women): Browse women's dresses in black.
+- [A-Line Dresses for Women](https://aramya.in/collections/a-line-dresses-for-women): Shop women's dresses with an A-line silhouette.
+- [Palazzo Pants for Women](https://aramya.in/collections/palazzo-pants-for-women): Explore women's palazzo pants.
+- [Striped Pants for Women](https://aramya.in/collections/striped-pants-for-women): Shop women's pants featuring striped patterns.
+- [Trousers for Women](https://aramya.in/collections/trousers-for-women): Browse the collection of women's trousers.
+- [Shrugs for Women](https://aramya.in/collections/shrug-for-women): Shop women's shrugs.
+- [Straight Pants for Women](https://aramya.in/collections/straight-pants-for-women): Explore women's pants with a straight cut.
+- [Christmas Dresses for Women](https://aramya.in/collections/christmas-dresses-for-women): Shop festive dresses for women for Christmas.
+- [Christmas Kurtis](https://aramya.in/collections/christmas-kurti): Find festive kurtis suitable for Christmas celebrations.
+- [Makar Sankranti Sale](https://aramya.in/collections/makar-sankranti-sale): Shop special offers during the Makar Sankranti sale.
+- [Lohri Sale](https://aramya.in/collections/lohri-sale): Browse deals and discounts during the Lohri sale.
+- [Valentine's Day Red Dresses](https://aramya.in/collections/valentines-day-red-dress-for-womens): Shop red dresses perfect for Valentine's Day.
+
+## Size Inclusivity
+- [XS Size Kurtis](https://aramya.in/collections/xs-size-kurtis): Shop kurtis available in extra small (XS) size.
+- [S Size Kurtis](https://aramya.in/collections/s-size-kurtis): Browse kurtis available in small (S) size.
+- [M Size Kurtis](https://aramya.in/collections/m-size-kurti): Shop kurtis available in medium (M) size.
+- [L Size Kurtis](https://aramya.in/collections/l-size-kurti): Browse kurtis available in large (L) size.
+- [XL Size Kurtis](https://aramya.in/collections/xl-size-kurti): Shop kurtis available in extra large (XL) size.
+- [XXL Size Kurtis](https://aramya.in/collections/xxl-size-kurti): Browse kurtis available in double extra large (XXL) size.
+- [3XL Size Kurtis](https://aramya.in/collections/3xl-size-kurti): Shop kurtis available in 3XL size.
+- [4XL Size Kurtis](https://aramya.in/collections/4xl-size-kurti): Browse kurtis available in 4XL size.
+- [5XL Size Kurtis](https://aramya.in/collections/5xl-size-kurti): Shop kurtis available in 5XL size.
+- [6XL Size Kurtis](https://aramya.in/collections/6xl-size-kurti): Browse kurtis available in 6XL size.
+- [7XL Size Kurtis](https://aramya.in/collections/7xl-size-kurti): Shop kurtis available in 7XL size.
+- [8XL Size Kurtis](https://aramya.in/collections/8xl-size-kurti): Browse kurtis available in 8XL size.
+- [9XL Size Kurtis](https://aramya.in/collections/9xl-size-kurti): Shop kurtis available in 9XL size.
+- [10XL Size Kurtis](https://aramya.in/collections/10xl-size-kurti): Browse kurtis available in 10XL size.
+
+## Customer Information & Support
+- [Testimonials](https://aramya.in/testimonials): Read customer reviews and feedback.
+- [Fair Policy](https://aramya.in/fair-policy): Understand Aramya's fair policy guidelines.
+- [Contact Us](https://aramya.in/contact-us): Find ways to get in touch with Aramya customer support.
+- [Kurti Size Chart](https://aramya.in/pages/kurti-size-chart): Consult the size chart for accurate kurti measurements.
+- [Return Policy](https://aramya.in/return-policy): Learn about Aramya's policy for returning items.
+- [Shipping Policy](https://aramya.in/shipping-policy): Understand Aramya's shipping procedures and timelines.
+
+## Legal & Policies
+- [Terms of Service](https://aramya.in/terms-of-service): Review the terms and conditions for using Aramya.
+- [Privacy Policy](https://aramya.in/privacy-policy): Understand how Aramya handles your personal data.
+
+## Website Navigation & Structure
+- [Categories](https://aramya.in/categories): Browse all product categories available on Aramya.
+- [Stores](https://aramya.in/stores): Find information about physical Aramya store locations.
+- [Sitemap](https://aramya.in/pages/sitemap): View a sitemap of the Aramya website.
+- [Products Sitemap](https://aramya.in/pages/products-sitemap): See a sitemap specifically for Aramya's products.
+
+## Blog & Social Media
+- [Blog](https://aramya.in/blogs): Read articles and updates from the Aramya blog.
+- [Aramya Facebook](https://www.facebook.com/aramya.in/): Visit Aramya's official Facebook page.
+- [Aramya Instagram](https://www.instagram.com/aramya.in/): Follow Aramya's official Instagram profile.

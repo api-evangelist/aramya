@@ -1,7 +1,13 @@
 aid: aramya
 name: Aramya
-description: 'Aramya is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Aramya is a direct-to-consumer (D2C) women''s ethnic wear brand from India, operated by
+  DSLR Technologies Pvt. Ltd. and based in Jaipur, Rajasthan. Founded by Ankush Goyal, Aramya sells premium
+  cotton kurtas, kurta sets, bottoms, dresses, co-ord sets, and dupattas with a strong focus on inclusive
+  sizing (XS to 10XL) and affordable, comfortable everyday, office, and occasion wear. The brand runs on a
+  Shopify-based storefront at aramya.in with weekly launches, cash on delivery, and free returns, and has
+  raised multiple rounds (seed, pre-Series A, and an ~INR 80 Cr Series A) co-led by Accel India and Z47
+  (formerly Matrix Partners India). Aramya is a consumer retail brand and does not publish a public developer
+  API; it does publish an llms.txt describing its shopping surface for AI assistants.'
 url: https://raw.githubusercontent.com/api-evangelist/aramya/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +15,30 @@ x-backed-by:
 - accel
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://assets.aramya.in/next-assets/production/images/website_link_banner.png
 tags:
 - Company
 - Consumer
+- Fashion
+- Ecommerce
+- Retail
+- D2C
+- Apparel
+- India
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +46,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/aramya-domain-security.yml
+- type: LLMsTxt
+  url: llms/aramya-llms.txt
 - type: Website
   url: https://aramya.in/
+- type: Blog
+  url: https://aramya.in/blogs
+- type: TermsOfService
+  url: https://aramya.in/terms-of-service
+- type: PrivacyPolicy
+  url: https://aramya.in/privacy-policy
+- type: Support
+  url: https://aramya.in/contact-us
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
