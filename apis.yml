@@ -1,13 +1,13 @@
 aid: aramya
 name: Aramya
-description: 'Aramya is a direct-to-consumer (D2C) women''s ethnic wear brand from India, operated by
-  DSLR Technologies Pvt. Ltd. and based in Jaipur, Rajasthan. Founded by Ankush Goyal, Aramya sells premium
+description: Aramya is a direct-to-consumer (D2C) women's ethnic wear brand from India, operated by DSLR
+  Technologies Pvt. Ltd. and based in Jaipur, Rajasthan. Founded by Ankush Goyal, Aramya sells premium
   cotton kurtas, kurta sets, bottoms, dresses, co-ord sets, and dupattas with a strong focus on inclusive
-  sizing (XS to 10XL) and affordable, comfortable everyday, office, and occasion wear. The brand runs on a
-  Shopify-based storefront at aramya.in with weekly launches, cash on delivery, and free returns, and has
-  raised multiple rounds (seed, pre-Series A, and an ~INR 80 Cr Series A) co-led by Accel India and Z47
-  (formerly Matrix Partners India). Aramya is a consumer retail brand and does not publish a public developer
-  API; it does publish an llms.txt describing its shopping surface for AI assistants.'
+  sizing (XS to 10XL) and affordable, comfortable everyday, office, and occasion wear. The brand runs
+  on a Shopify-based storefront at aramya.in with weekly launches, cash on delivery, and free returns,
+  and has raised multiple rounds (seed, pre-Series A, and an ~INR 80 Cr Series A) co-led by Accel India
+  and Z47 (formerly Matrix Partners India). Aramya is a consumer retail brand and does not publish a public
+  developer API; it does publish an llms.txt describing its shopping surface for AI assistants.
 url: https://raw.githubusercontent.com/api-evangelist/aramya/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -39,7 +39,7 @@ accessModel:
   method: derived
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-09-16'
 image: https://assets.aramya.in/next-assets/production/images/website_link_banner.png
 tags:
 - Company
@@ -50,6 +50,7 @@ tags:
 - D2C
 - Apparel
 - India
+- Direct to Consumer
 tags_raw:
 - Company
 - Consumer
@@ -59,6 +60,7 @@ tags_raw:
 - D2C
 - Apparel
 - India
+- Direct to Consumer
 apis: []
 maintainers:
 - FN: Kin Lane
