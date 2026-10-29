@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aramya is a company surfaced as a portfolio company of accel and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+Aramya is a direct-to-consumer (D2C) women's ethnic wear brand from India, operated by DSLR Technologies Pvt. Ltd. and based in Jaipur, Rajasthan. Founded by Ankush Goyal, Aramya sells premium cotton kurtas, kurta sets, bottoms, dresses, co-ord sets, and dupattas with a strong focus on inclusive sizing (XS to 10XL) and affordable, comfortable everyday, office, and occasion wear. The brand runs on a Shopify-based storefront at aramya.in with weekly launches, cash on delivery, and free returns, and has raised multiple rounds (seed, pre-Series A, and an ~INR 80 Cr Series A) co-led by Accel India and Z47 (formerly Matrix Partners India). Aramya is a consumer retail brand and does not publish a public developer API; it does publish an llms.txt describing its shopping surface for AI assistants.
 
-Backed by: accel — https://aramya.in/
+**Areas:** Company · Consumer · Fashion · E-Commerce · Retail · Apparel · India · Direct to Consumer
+
+## Aramya on APIs.io
+
+Everything profiled for Aramya is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aramya/](https://apis.io/providers/aramya/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aramya Domain Security](https://apis.io/security/aramya/aramya-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aramya.in/)
+- [Support](https://aramya.in/contact-us)
+- [Blog](https://aramya.in/blogs)
+- [Terms of service](https://aramya.in/terms-of-service)
+- [Privacy policy](https://aramya.in/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 11.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aramya/](https://apis.io/providers/aramya/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aramya: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aramya/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
